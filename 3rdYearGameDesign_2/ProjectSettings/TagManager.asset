@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Switch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerL
+  - Platform
+  - Switch
+  - Object
+  - GravityField
+  - PressurePlate
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1514657931
+    locked: 0
+  - name: Platform
+    uniqueID: 1460752777
+    locked: 0
+  - name: Object
+    uniqueID: 1868147495
+    locked: 0
+  - name: Player
+    uniqueID: 466238405
+    locked: 0
