@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Player
+  - Platform
+  - Collectable
+  - Spear
+  - WallEX
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 3863005341
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PLT
+    uniqueID: 180571551
+    locked: 0
+  - name: Enem
+    uniqueID: 3345396029
+    locked: 0
+  - name: CHR
+    uniqueID: 2659497757
+    locked: 0
